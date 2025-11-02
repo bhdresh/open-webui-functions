@@ -1,8 +1,8 @@
 ## Open WebUI Functions
 
-This project is a collection of AI-powered agents developed using Open WebUI.
+This project is a collection of AI functions developed using Open WebUI.
 
-These agents integrate with Open WebUI, adding intelligent automation, natural language processing, and advanced AI capabilities.
+These functions integrate with Open WebUI, adding intelligent automation, natural language processing, and advanced AI capabilities.
 
 The goal is to expand Open WebUI’s potential by enabling AI-driven tools, utilities, and workflows, improving user experience and efficiency.
 
@@ -12,8 +12,8 @@ The goal is to expand Open WebUI’s potential by enabling AI-driven tools, util
 #### Description :
 This AI-powered chat agent analyzes user queries in real time to identify stock-related discussions. If a query pertains to stock analysis, the agent extracts the company name, retrieves the ticker symbol, and performs a detailed evaluation. This includes:
 
-  ✅ Fundamental & technical analysis<br>
-  ✅ Risk & volume assessment<br>
+✅ Fundamental & technical analysis<br>
+✅ Risk & volume assessment<br>
 ✅ Sentiment analysis<br>
 ✅ Quarterly results review<br>
 ✅ Profit and loss evaluation<br>
