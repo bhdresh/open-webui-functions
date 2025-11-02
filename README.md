@@ -7,7 +7,7 @@ These functions integrate with Open WebUI, adding intelligent automation, natura
 The goal is to expand Open WebUI’s potential by enabling AI-driven tools, utilities, and workflows, improving user experience and efficiency.
 
 
-### 1. Stock analysis using AI agent for stocks listed on BSE and NSE
+### 1. Stock analysis using AI function for stocks listed on BSE and NSE
 
 #### Description :
 This AI-powered chat agent analyzes user queries in real time to identify stock-related discussions. If a query pertains to stock analysis, the agent extracts the company name, retrieves the ticker symbol, and performs a detailed evaluation. This includes:
