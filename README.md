@@ -61,7 +61,9 @@ https://openwebui.com/f/bhdresh/dataguard
 
 #### Demo :  
 
+[![Watch the video]()](https://youtu.be/fFeVYSn2Z9w)  
 
+![Demo](https://github.com/bhdresh/open-webui-functions/blob/main/dataguard/dataguard.gif)
 ---
 
 ### Licence
