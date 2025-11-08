@@ -54,7 +54,7 @@ You can configure **what types of data** are allowed, and DataGuard ensures that
 - Provides instant feedback if data is blocked or allowed  
 
 #### Source code :
-[dataguard.py](https://github.com/bhdresh/open-webui-functions/blob/main/DataGuard/DataGuard.py)  
+[dataguard.py](https://github.com/bhdresh/open-webui-functions/blob/main/dataguard/dataguard.py)  
 
 #### Open WebUI function URL :
 https://openwebui.com/f/bhdresh/dataguard  
